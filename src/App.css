@@ -1,0 +1,45 @@
+body{
+  background-color: black;
+  font-family: sans-serif;
+}
+*{
+  color: white;
+}
+.sort-btn{
+  background-color: mediumorchid;
+  width: 120px;
+  height: 40px;
+}
+.grade-btn{
+  background-color: mediumorchid;
+  width: 120px;
+  height: 40px;
+  margin-right: 40px;
+}
+.search-btn{
+  background-color: orange;
+  width: 200px;
+  height: 40px;
+  margin-right: 40px;
+}
+button{
+  margin-left: 30px;
+  
+}
+h1{
+font-family: monospace;
+font-size: 60px;
+padding-left: 350px;
+border: 1px solid;
+display: inline-block;
+width: 1000px; height: 100px;
+background-color: orange;
+margin-top: 10px;
+padding-top: 10px;
+}
+::placeholder{
+  color: aliceblue;
+}
+.internInfo-section{
+  border: 7px solid orange;
+}
